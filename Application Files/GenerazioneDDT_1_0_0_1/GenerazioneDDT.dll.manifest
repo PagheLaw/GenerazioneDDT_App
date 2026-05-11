@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="GenerazioneDDT.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="GenerazioneDDT.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -107,13 +107,13 @@
       <dsig:DigestValue>GB+vN+XxKmIQD8W1FjzM8j7RgM8AnetHrXrlbLH1spI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="GenerazioneDDT.dll" size="41984">
+  <file name="GenerazioneDDT.dll" size="49664">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>05Pr7EqH16smiyl65Kg67bVDwxbVLGJUqweEB5/jWcw=</dsig:DigestValue>
+      <dsig:DigestValue>z0FxtVZK+3xcezVK1/qVVRqOXIH6Gnjct9fmaQfg83o=</dsig:DigestValue>
     </hash>
   </file>
   <file name="GenerazioneDDT.exe" size="162304">
@@ -122,7 +122,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>MQTs9CXVDqmtGxLvG+p9pYSgeERO4onqjwOZWhOD7uU=</dsig:DigestValue>
+      <dsig:DigestValue>wFts6bUeH3WSWenkwxMhuuwBgcGqxnl9F58+dMMOHI8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="GenerazioneDDT.runtimeconfig.json" size="519">
@@ -132,6 +132,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>lrwpRt/4eQQA1lLsf43nuwQ+lUmA1ZRwwRJ4i2ih+9M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Manuali\ProceduraImporazioneDDT.pdf" size="534890">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yVnq7nqbUV+qz2OnYcFjNbpcfeC1jHVd4YNr80t0fb8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="RBush.dll" size="34816">
